@@ -1,5 +1,5 @@
 <h1>Description</h1>
-<p> This repository contains a training notebook for the leaf classification of apple and maize plants. The dataset used for this project is sourced from the Kaggle Plant Village dataset. The main focus of the notebook is to fine-tune the ResNet50 model specifically for the classification of apple and maize leaves.
+<p> This repository contains the training notebook for the leaf classification of apple and maize plants. The dataset used for this project is sourced from the Kaggle Plant Village dataset. The main focus of the notebook is to fine-tune the ResNet50 model specifically for the classification of apple and maize leaves.
 
 After training, the models are converted to TensorFlow Lite (TFLite) format for easy integration with mobile applications.</p>
 
